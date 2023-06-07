@@ -1,0 +1,15 @@
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.exe
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.deps.json
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.runtimeconfig.json
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.dll
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.pdb
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.AssemblyInfo.cs
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.dll
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\refint\AreaRetangulo.dll
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.pdb
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.genruntimeconfig.cache
+C:\Users\bsas\Documents\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\ref\AreaRetangulo.dll

@@ -1,0 +1,63 @@
+@startuml Sistema
+
+left to right direction
+
+object "ChevetteAutomovel:Automovel" as ChevetteAutomovel
+ChevetteAutomovel : placaAutomovel = "ABC-1234"
+ChevetteAutomovel : renavamAutomovel = "123456"
+ChevetteAutomovel : chassi Automovel = "654321"
+ChevetteAutomovel : corAutomovel = "Preto"
+ChevetteAutomovel : numeroPortasAutomovel = 2
+ChevetteAutomovel : combustivelAutomovel = 1
+ChevetteAutomovel : quilometragemAutomovel = 100000
+ChevetteAutomovel : valorLocacaoAutomovel = 450
+
+object "ChevetteModelo:Modelo" as ChevetteModelo
+    ChevetteModelo : descricaoModelo = "Tubarão"
+
+object "ChevetteLocacao:Locacao" as ChevetteLocacao
+    ChevetteLocacao : dataLocacao = 01/01/2023
+    ChevetteLocacao : horaLocacao = 12:00:00
+    ChevetteLocacao : dataDevolucao = 07/01/2023
+    ChevetteLocacao : horaDevolucao = 12:00:00
+    ChevetteLocacao : quilometragemLocacao = 12000
+    ChevetteLocacao : quilometragemDevolucao = 12923
+    ChevetteLocacao : ValorCaucao = 100
+    ChevetteLocacao : valorLocacao = 750
+    ChevetteLocacao : locacaoDevolvida = true
+
+object "ChevetteMarca:Marca" as ChevetteMarca
+    ChevetteMarca : descricaoMarca = "Volks"
+
+object "ChevetteCliente:Cliente" as ChevetteCliente
+    ChevetteCliente : cpfCliente = "12345678900"
+    ChevetteCliente : nomeCliente = "Geromel"
+    ChevetteCliente : enderecoCliente = "Rua gremio, 2016"
+    ChevetteCliente : telefoneCliente = "(11)912345678"
+    ChevetteCliente : emailCliente = "geromel@hotmail.com"
+
+'Associaçoes
+    ChevetteAutomovel -- ChevetteLocacao :compõe
+    ChevetteAutomovel -right- ChevetteModelo  :\npossui
+    ChevetteLocacao -- ChevetteCliente   :realiza
+    ChevetteModelo -- ChevetteMarca      :tem
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+

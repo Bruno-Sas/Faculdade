@@ -1,0 +1,15 @@
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\bin\Debug\net7.0\AreaCirculo.exe
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\bin\Debug\net7.0\AreaCirculo.deps.json
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\bin\Debug\net7.0\AreaCirculo.runtimeconfig.json
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\bin\Debug\net7.0\AreaCirculo.dll
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\bin\Debug\net7.0\AreaCirculo.pdb
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.csproj.AssemblyReference.cache
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.dll
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\refint\AreaCirculo.dll
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.pdb
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\bsas\Documents\AreaCirculo\AreaCirculo\obj\Debug\net7.0\ref\AreaCirculo.dll

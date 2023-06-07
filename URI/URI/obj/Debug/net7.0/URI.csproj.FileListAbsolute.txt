@@ -1,0 +1,15 @@
+C:\Users\bsas\Documents\URI\URI\bin\Debug\net7.0\URI.exe
+C:\Users\bsas\Documents\URI\URI\bin\Debug\net7.0\URI.deps.json
+C:\Users\bsas\Documents\URI\URI\bin\Debug\net7.0\URI.runtimeconfig.json
+C:\Users\bsas\Documents\URI\URI\bin\Debug\net7.0\URI.dll
+C:\Users\bsas\Documents\URI\URI\bin\Debug\net7.0\URI.pdb
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.csproj.AssemblyReference.cache
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.AssemblyInfoInputs.cache
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.AssemblyInfo.cs
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.csproj.CoreCompileInputs.cache
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.dll
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\refint\URI.dll
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.pdb
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\URI.genruntimeconfig.cache
+C:\Users\bsas\Documents\URI\URI\obj\Debug\net7.0\ref\URI.dll

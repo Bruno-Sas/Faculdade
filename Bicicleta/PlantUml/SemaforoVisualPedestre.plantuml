@@ -1,0 +1,47 @@
+@startuml Sistema
+
+left to right direction
+
+    'Declaração das classes
+    abstract class SemaforoVisual{
+        # pinoVermelho
+        # pinoVerde
+
+        + AcionarVermelho(): void
+        + AcionarVerde(): void
+        + AcionarAtencao(): void
+        + DesacionarVermelho(): void
+        + DesacionarVerde(): void
+        + DesacionarAtencao(): void
+    }
+
+    class SemaforoVeiculos{
+        # pinoAmarelo
+
+        + AcionarAmarelo(): void
+        + DesacionarAmarelo(): void
+        + AcionarAtencao(): void
+        + DesacionarAtencao(): void
+    }
+
+    class SemaforoPedestre{
+        + AcionarAtencao(): void
+        + DesacionarAtencao(): void
+        
+    }
+
+    'Associações
+    SemaforoVisual <|-right- SemaforoVeiculos
+    SemaforoVisual <|-- SemaforoPedestre
+
+
+
+
+
+
+
+
+
+
+
+

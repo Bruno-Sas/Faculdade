@@ -1,0 +1,16 @@
+@startuml
+class Farol {
+- cor: String
++ ligar()
++ desligar()
+}
+class FarolEsquerda {
+- farolA: Farol
+- farolC: Farol
+}
+class FarolDireita {
+- farolB: Farol
+- farolD: Farol
+}
+FarolEsquerda -- Farol
+FarolDireita -- Farol

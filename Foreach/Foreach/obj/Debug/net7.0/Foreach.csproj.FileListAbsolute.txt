@@ -1,0 +1,15 @@
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\Users\bsas\Documents\Estudos C#\Foreach\Foreach\obj\Debug\net7.0\ref\Foreach.dll
